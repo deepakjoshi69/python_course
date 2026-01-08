@@ -1,0 +1,4 @@
+Server started successfully
+User logged in
+Error in python module
+Backup completed
